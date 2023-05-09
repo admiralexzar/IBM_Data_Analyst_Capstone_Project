@@ -1,5 +1,9 @@
 # IBM_Data_Analyst_Capstone_Project
 
+## Description 
+    The Analysis of Technological Trends capstone project for the Data Analyst professional certificate involves the exploration and examination of current trends in technology. This project aims to identify patterns and insights using various data analysis techniques to provide a comprehensive overview of the latest technological developments. The project involves collecting, cleaning, and analyzing data from diverse sources such Stack Overflow Developer 2019 Survey, GitHub Job Postings and market reports to gain a deeper understanding of the technological landscape. 
+    By leveraging data analysis tools and techniques, this project aims to identify emerging technologies, assess their potential impact on various industries, and provide recommendations for businesses and individuals looking to stay ahead of the curve. Through this capstone project, I develop critical thinking, analytical, and data visualization skills while gaining hands-on experience in data analysis techniques, preparing for a career in the rapidly evolving field of technology analysis.
+
 ## Executive Summary
     - The current and future trends in programming languages and databases
     - Demographic landscape of technological practitioners 
